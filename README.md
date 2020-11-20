@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+<a class="github-button" href="https://github.com/MorleyJune" data-color-scheme="no-preference: light; light: light; dark: dark;" data-size="large" data-show-count="true" aria-label="Follow @MorleyJune on GitHub">Follow @MorleyJune</a>
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MorleyJune&show_icons=true&theme=tokyonight)](https://github.com/MorleyJune/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MorleyJune&theme=tokyonight&langs_count=4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
