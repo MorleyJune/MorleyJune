@@ -1,6 +1,7 @@
 ### Hi there 👋
-
+<head>
 <script async defer src="https://buttons.github.io/buttons.js"></script>
+</head>
 <a class="github-button" href="https://github.com/MorleyJune" data-color-scheme="no-preference: light; light: light; dark: dark;" data-size="large" data-show-count="true" aria-label="Follow @MorleyJune on GitHub">Follow @MorleyJune</a>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MorleyJune&show_icons=true&theme=tokyonight)](https://github.com/MorleyJune/github-readme-stats)
