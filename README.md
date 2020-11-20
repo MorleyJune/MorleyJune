@@ -15,3 +15,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I made mini quiz games for Quiz Society of School of Medicine in Yamagata University.
+And I also made videos about physical experiment of Pokémon.
+
+[![](http://img.youtube.com/vi/XcaR6EtB-vM/0.jpg)](http://www.youtube.com/watch?v=XcaR6EtB-vM "ponyta")
+[![](http://img.youtube.com/vi/HACRlFimfkE/0.jpg)](http://www.youtube.com/watch?v=HACRlFimfkE "Dragonite")
+
+If you cannot understand Japanese, Don't worry. I prepared English Subtitles to it.
+
+Now, I'm making some IoT device for World's Health.
+Please look for.
