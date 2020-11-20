@@ -27,5 +27,5 @@ You can choose which one you watch.
 
 If you cannot understand Japanese, Don't worry. I prepared English Subtitles to it.
 
-Now, I'm making some IoT device for World's Health, not only entertainment.
+Now, I'm making some IoT device for World's Health, not just entertainment.
 Please look for.
