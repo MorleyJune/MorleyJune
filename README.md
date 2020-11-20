@@ -18,11 +18,14 @@ Here are some ideas to get you started:
 
 I made mini quiz games for Quiz Society of School of Medicine in Yamagata University.
 And I also made videos about physical experiment of Pokémon.
+The left one is about Ponyta, and the right one is about Dragonite.
+The left one is very logical, but the right one is very humorous.
+You can choose which one you watch. 
 
-[![](http://img.youtube.com/vi/XcaR6EtB-vM/0.jpg)](http://www.youtube.com/watch?v=XcaR6EtB-vM "ponyta")
+[![](http://img.youtube.com/vi/XcaR6EtB-vM/0.jpg)](http://www.youtube.com/watch?v=XcaR6EtB-vM "Ponyta")
 [![](http://img.youtube.com/vi/HACRlFimfkE/0.jpg)](http://www.youtube.com/watch?v=HACRlFimfkE "Dragonite")
 
 If you cannot understand Japanese, Don't worry. I prepared English Subtitles to it.
 
-Now, I'm making some IoT device for World's Health.
+Now, I'm making some IoT device for World's Health, not only entertainment.
 Please look for.
